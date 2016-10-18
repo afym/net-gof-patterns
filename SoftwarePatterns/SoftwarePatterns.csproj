@@ -48,10 +48,14 @@
     <Compile Include="Creationals\FactoryPattern\Square.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Structural\Flyweight\BankTransaction.cs" />
+    <Compile Include="Structural\Flyweight\ITransaction.cs" />
+    <Compile Include="Structural\Flyweight\TransactionFlyWeightFactory.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
