@@ -53,6 +53,7 @@
     <Compile Include="Creationals\FactoryPattern.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structurals\Flyweigth.cs" />
+    <Compile Include="Structurals\Adapter.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SoftwarePatterns\SoftwarePatterns.csproj">
