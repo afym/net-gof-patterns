@@ -50,6 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Behavioral\Iterator.cs" />
     <Compile Include="Creationals\FactoryPattern.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structurals\Flyweigth.cs" />

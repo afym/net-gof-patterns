@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioral\Iterator\NamesStack.cs" />
     <Compile Include="Creationals\FactoryPattern\Circle.cs" />
     <Compile Include="Creationals\FactoryPattern\IShape.cs" />
     <Compile Include="Creationals\FactoryPattern\Rectangle.cs" />
